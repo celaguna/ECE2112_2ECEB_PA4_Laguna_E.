@@ -377,6 +377,16 @@ plt.xlabel("Hometown")
 plt.show()
 ```
 
+Yes, the chosen track in college, gender, and hometown all show some contribution to the differences in average scores, but not equally.
+
+Track: The bar chart shows that students in certain tracks (e.g., Instrumentation or Electronics) tend to achieve slightly higher average scores compared to others like Communication. This suggests that the track may influence performance, possibly due to curriculum focus or student strengths.
+
+Gender: The average scores between male and female students are close, with only a small difference observed. This indicates that gender does not strongly determine academic performance in this dataset.
+
+Hometown: There are visible variations in average scores depending on the hometown (Luzon, Visayas, Mindanao). Students from certain regions slightly outperform others, which may reflect differences in background preparation or learning environments.
+
+Among the three factors, Track and Hometown contribute more noticeably to higher average scores, while Gender has minimal effect on overall performance.
+
 ## Takeaways
 1. import pandas as pd lets us load and process Excel data easily with pandas DataFrames.
 2. import matplotlib.pyplot as plt provides tools for visualizing data with customizable plots.
