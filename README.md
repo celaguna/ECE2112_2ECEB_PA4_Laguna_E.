@@ -29,7 +29,7 @@ Each section includes the actual code with line-by-line explanations inside the 
 4. [Problem 1B](#problem-1b)
 5. [Problem 2](#problem-2)  
 6. [Conclusion](#-conclusion)
-7. [Programming Assignment 4 (Problem 1) .py file](Laguna_Pandas-P1.py)
+7. [Programming Assignment 4 .ipynb file](Laguna_Pandas-P1.py)
 
 ---
 
